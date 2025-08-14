@@ -1,13 +1,5 @@
 # SVM-AI-ML
-svm-classification/
-├── svm_implementation.py          # Main implementation file
-├── README.md                      # Project documentation
-├── requirements.txt               # Python dependencies
-├── results/
-│   ├── svm_decision_boundaries.png    # Decision boundary plots
-│   ├── hyperparameter_analysis.png    # Hyperparameter tuning results
-│   └── confusion_matrix.png           # Final model evaluation
-└── .gitignore                     # Git ignore file
+
 🎯 Objective
 Implementation of Support Vector Machines for binary classification using both linear and RBF kernels, with comprehensive analysis including decision boundary visualization, hyperparameter tuning, and cross-validation.
 🛠️ Tools & Technologies
